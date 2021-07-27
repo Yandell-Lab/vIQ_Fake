@@ -2,4 +2,4 @@
 
 * Adding feature A on feature_branch A
 * Bug fix on feature A
-
+* Adding feature B
